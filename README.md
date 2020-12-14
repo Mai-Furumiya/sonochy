@@ -1,2 +1,1 @@
-# sonochy
-gihub pages try
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sonochy)](https://github.com/anuraghazra/github-readme-stats)
